@@ -1,5 +1,8 @@
 def main():
-	pass # YOUR CODE HERE
+	app = Flask(__name__)
+
+
+# YOUR CODE HERE...
 
 
 if __name__ == "__main__":
